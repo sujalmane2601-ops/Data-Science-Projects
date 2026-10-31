@@ -90,6 +90,7 @@ Through these projects, I have gained practical experience in:
 - Generative AI and Large Language Models
 - Predictive Analytics
 - Real-world Data Science applications
+- Looking for a Job Opportunity as a Data Scientist
 
 ---
 
@@ -97,9 +98,9 @@ Through these projects, I have gained practical experience in:
 
 I am interested in connecting with professionals, learning from industry experts, and exploring opportunities in Data Science and Machine Learning.
 
-- **LinkedIn:** [Add Your LinkedIn Profile URL]
-- **GitHub:** [Add Your GitHub Profile URL]
-- **Email:** [Add Your Professional Email]
+- **LinkedIn:** www.linkedin.com/in/sujalmane2601
+- **GitHub:** github.com/sujalmane2601-ops
+- **Email:** sujalmane.skn.entc@gmail.com
 
 Thank you for visiting my portfolio! Feel free to explore my projects and share your feedback.
 
